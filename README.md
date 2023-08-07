@@ -32,6 +32,7 @@ where
 P(x1, …, xj|y):</b> Likelihood of features x1 to xj given that their class is y.<br>
 P(y):</b> Prior Probability<br><br>
 P(x1, …, xj): Marginal Probability.<br><br>
+<hr>
 
 ## Dataset
 
